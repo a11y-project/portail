@@ -1,2 +1,0 @@
-fais un nettoyage dans le projet
-revois l'architecture du projet pour ranger chaque fichier correctement avec des noms de fichiers corrects
