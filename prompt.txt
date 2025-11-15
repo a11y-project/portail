@@ -1,3 +1,2 @@
-supprime le h2 de la page portail
-supprime le nombre de rubriques et le nombres de lines dans le  portail
-crée une structure de page : <header role="banner">, <main role="main">, <footer role="contentinfo">.
+fais un nettoyage dans le projet
+revois l'architecture du projet pour ranger chaque fichier correctement avec des noms de fichiers corrects

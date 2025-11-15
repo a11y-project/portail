@@ -1,4 +1,7 @@
-{
+// Données des portails embarquées directement dans le JavaScript
+// Cela évite les problèmes CORS lors de l'ouverture directe des fichiers HTML
+
+const PORTALS_DATA = {
   "portals": [
     {
       "id": "developpement",
@@ -138,4 +141,4 @@
       ]
     }
   ]
-}
+};
