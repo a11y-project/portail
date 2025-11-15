@@ -1,0 +1,3 @@
+supprime le h2 de la page portail
+supprime le nombre de rubriques et le nombres de lines dans le  portail
+crée une structure de page : <header role="banner">, <main role="main">, <footer role="contentinfo">.
